@@ -27,7 +27,7 @@ header li{
 }
 #sub_img{
   text-align: center;
-  background-image: url(./img/back.jpg);
+  background-image: url(back.jpg);
   height: 150px;
   padding-top: 35px;
 }
